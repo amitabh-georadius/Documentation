@@ -55,6 +55,7 @@ invullen met waardes die voor jou relevant zijn:
 * **redirect_uri**: het volledige adres (url) van de pagina op jouw website waar de gebruiker naar wordt terugverwezen nadat hij toegang heeft verleend
 * **state**: een moeilijk te raden random string die je zelf hebt gegenereerd (dit moet telkens een andere waarde zijn!)
 * **response_type**: dit moet de waarde *code* hebben
+* **scope**: het soort toegang dat je nodig hebt (kan r, w of rw zijn, standaard is rw)
 
 Je moet er goed voor zorgen dat de **state** variabele echt een moeilijk te raden
 random string is. Als de string niet naar onze zin is (te kort, te voorspelbaar),
