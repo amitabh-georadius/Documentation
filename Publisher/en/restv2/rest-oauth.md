@@ -10,7 +10,7 @@ each registered application has access.
 Because we use this OAuth2 protocol, you need to take two steps to get access
 to the API: you first have to register your website of app with Copernica, and then
 you have to give your application access to your account. After you've taken
-these two steps (which you can do both via the [www.copernica.com dashboard](/en/applications))
+these two steps (which you can do both via the [www.copernica.com dashboard](/en/api))
 you will be handed an *access key* that you can use to access the REST API.
 
 But you can do more with the OAuth2 than just fetching an access key to access
@@ -49,7 +49,7 @@ your website can fetch data from the Copernica account of that other user.
 
 The very first step in setting up your own OAuth2 authorization button is 
 registering your website or app with Copernica. You can do this via the 
-[dashboard op www.copernica.com](/en/applications). Ensure that the name
+[dashboard op www.copernica.com](/en/api). Ensure that the name
 and description of your application are clear and understandable, because
 this is the information that is displayed to users who click on the button.
 The application name and description will be included in the "application X wants

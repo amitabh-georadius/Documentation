@@ -38,7 +38,7 @@ app with Copernica to receive such an access token.
 Copernica uses the [*OAuth*](./rest-oauth.md) protocol to authorize applications
 to access the REST API. This is a standardized protocol that requires you 
 to register your website or app first. You can do so by using the registration 
-form on [the dashboard](/en/applications) of the Copernica website. It is not 
+form on [the dashboard](/en/api) of the Copernica website. It is not 
 possible to register for the REST API in the Marketing Suite or Publisher. 
 After completing this registration you can find another form on the 
 dashboard that allows you to link one or multiple accounts.

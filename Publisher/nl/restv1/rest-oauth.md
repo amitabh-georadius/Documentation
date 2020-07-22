@@ -27,7 +27,7 @@ je database te analyseren. Vind je dat goed?".
 ## Applicatie aanmelden
 
 De hierboven beschreven koppeling kun je met OAuth2 maken. Om te beginnen 
-moet je je applicatie aanmelden via het [dashboard](/nl/applications).
+moet je je applicatie aanmelden via het [dashboard](/nl/api).
 Je moet hierbij een naam en omschrijving van je applicatie opgeven. Zorg dat
 dit een duidelijke naam en omschrijving is, want deze gegevens krijgen mensen 
 te zien als ze op de pagina "applicatie X wil graag toegang tot jouw gegevens"
