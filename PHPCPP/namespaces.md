@@ -48,7 +48,7 @@ If you like, you can use the `Php::Namespace` utility class for this. This is a 
             Php::Namespace myNamespace("myNamespace");
 
             // add the myFunction function to the namespace
-            myNamespace.add("myFunction", myFunction);
+            myNamespace.add<myFunction>("myFunction");
 
             // @todo add more functions and classes to the namespace
 
